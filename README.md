@@ -7,6 +7,7 @@
 
 - <b>Tableau</b>
   - [Sostenibilità a Tavola: scelte alimentari consapevoli per ridurre il proprio impatto ambientale (progetto per "Data Visualization con Tableau" Start2Impact)]
+(https://github.com/damianoottavi/damianoottavi/blob/main/Sostenibilit%C3%A0%20a%20Tavola.pptx)
   
 - <h2> 🤳 Connect with me:</h2>
 
