@@ -5,7 +5,10 @@
 - <b>Python</b>
   - [Analisi dataset di 1000 hotel per costruzione di eco hotel (progetto per "Data Manipulation and Visualisation" Start2Impact)](https://github.com/damianoottavi/damianoottavi/blob/main/DamianoOttaviPython.ipynb)
 
-<h2> 🤳 Connect with me:</h2>
+- <b>Tableau</b>
+  - [Sostenibilità a Tavola: scelte alimentari consapevoli per ridurre il proprio impatto ambientale (progetto per "Data Visualization con Tableau" Start2Impact)]
+  
+- <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
