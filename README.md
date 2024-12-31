@@ -6,7 +6,7 @@
   - [Analisi dataset di 1000 hotel per costruzione di eco hotel (progetto per "Data Manipulation and Visualisation" Start2Impact)](https://github.com/damianoottavi/damianoottavi/blob/main/DamianoOttaviPython.ipynb)
 
 - <b>Tableau</b>
-  - [Sostenibilità a Tavola: scelte alimentari consapevoli per ridurre il proprio impatto ambientale (progetto per "Data Visualization con Tableau" Start2Impact)](https://github.com/damianoottavi/damianoottavi/blob/main/Sostenibilit%C3%A0%20a%20Tavola.pptx)
+  - [Sostenibilità a Tavola: scelte alimentari consapevoli per ridurre il proprio impatto ambientale (progetto per "Data Visualization con Tableau" Start2Impact)](https://public.tableau.com/views/ProgettoTableauDamianoOttavi/SostenibilitaTavola?:language=it-IT&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
   
 - <h2> 🤳 Connect with me:</h2>
 
