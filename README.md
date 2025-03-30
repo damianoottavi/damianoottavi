@@ -1,4 +1,4 @@
-<h1>Hello, there! <br/>Sono Damiano Ottavi, <a href="https://github.com/damianoottavi">Data Analyst</a> e <a href="https://www.linkedin.com/in/damiano-ottavi-43958a119/">Ingegnere energetico</a> appassionato di tecnologia, big data e sostenibilità. <br/>Obiettivo: unire questi tre interessi per lasciare un'impronta positiva nel mondo.
+<h1>Hello, there! <br/>Sono Damiano Ottavi, <a href="https://github.com/damianoottavi">Data Analyst</a> and <a href="https://www.linkedin.com/in/damiano-ottavi-43958a119/">Sustainability enjoyer</a>
 
 <h2>👨‍💻 Progetti Data Analyst:</h2>
 
