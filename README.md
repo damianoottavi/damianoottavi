@@ -1,4 +1,4 @@
-<h1>Hello, there! <br/>I'm Damiano Ottavi, <a href="https://github.com/damianoottavi">Data Analyst</a> and <a href="https://www.linkedin.com/in/damiano-ottavi-43958a119/">Sustainability enjoyer</a>
+<h1>Hello, there! <br/>I'm <a href="https://github.com/damianoottavi">Damiano Ottavi</a>,  <a href="https://www.linkedin.com/in/damiano-ottavi-43958a119/">Data Analyst</a> and Sustainability enjoyer
 
 <h2>👨‍💻 Progetti Data Analyst:</h2>
 
