@@ -6,7 +6,7 @@
   - [Exploratory data analysis for construction of eco-hotels](DamianoOttaviPython.ipynb)
 
 - <b>Tableau</b>
-  - [Sustainability at lunch: reducing emissions by changing dietary habits]([https://public.tableau.com/views/ProgettoTableauDamianoOttavi/SostenibilitaTavola?:language=it-IT&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/damiano.ottavi/viz/ProgettoTableauDamianoOttavi/Sustainabilityatlunch))
+  - [Sustainability at lunch: reducing emissions by changing dietary habits](https://public.tableau.com/app/profile/damiano.ottavi/viz/ProgettoTableauDamianoOttavi/Sustainabilityatlunch)
   
 - <h2> 🤳 Connect with me:</h2>
 
