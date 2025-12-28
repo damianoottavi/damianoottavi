@@ -4,7 +4,7 @@
 
 - <b>Python</b>
   - [Exploratory data analysis for construction of eco-hotels](DamianoOttaviPython.ipynb)
-  - [Machine learning project using Titanic dataset]()
+  - [Machine learning project using Titanic dataset](https://github.com/damianoottavi/damianoottavi/blob/main/DamianoOttaviMLI.ipynb)
 
 - <b>Tableau</b>
   - [Sustainability at lunch: reducing emissions by changing dietary habits](https://public.tableau.com/app/profile/damiano.ottavi/viz/ProgettoTableauDamianoOttavi/Sustainabilityatlunch)
