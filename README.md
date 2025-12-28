@@ -3,10 +3,10 @@
 <h2>👨‍💻 Progetti Data Analyst:</h2>
 
 - <b>Python</b>
-  - [Analisi dataset di 1000 hotel per costruzione di eco hotel (progetto per "Data Manipulation and Visualisation" Start2Impact)](https://github.com/damianoottavi/damianoottavi/blob/main/DamianoOttaviPython.ipynb)
+  - [Exploratory data analysis for construction of eco-hotels](DamianoOttaviPython.ipynb)
 
 - <b>Tableau</b>
-  - [Sostenibilità a Tavola: scelte alimentari consapevoli per ridurre il proprio impatto ambientale (progetto per "Data Visualization con Tableau" Start2Impact)](https://public.tableau.com/views/ProgettoTableauDamianoOttavi/SostenibilitaTavola?:language=it-IT&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  - [Sustainability at lunch: reducing emissions by changing dietary habits]([https://public.tableau.com/views/ProgettoTableauDamianoOttavi/SostenibilitaTavola?:language=it-IT&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/damiano.ottavi/viz/ProgettoTableauDamianoOttavi/Sustainabilityatlunch))
   
 - <h2> 🤳 Connect with me:</h2>
 
